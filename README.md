@@ -41,7 +41,6 @@ ChessPersona plans to extract the following features for each game, which are in
 The extracted features are used to feed various unsupervised machine learning models to identify distinct clusters of playing styles:
 
 - **K-means Clustering**: A popular clustering method that groups data based on feature similarity.
-- **Hierarchical Clustering**: This technique builds a tree of clusters and is particularly useful for understanding the nested relationships between different playing styles.
 - **DBSCAN**: Useful for identifying clusters of arbitrary shape and for handling noise and outliers in the dataset.
 
 By employing these models, ChessPersona aims to reveal nuanced insights into the diverse strategies employed by chess players around the world.
